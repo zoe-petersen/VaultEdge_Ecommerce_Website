@@ -92,7 +92,7 @@
     ```bash
     cd vaultedge_frontend
     npm run serve
-    Open: http://localhost:8080
+    Open: http://localhost:8081
 
 ## Usage
 
